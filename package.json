@@ -1,0 +1,22 @@
+{
+  "name": "borderless",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murqu/borderless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murqu/borderless/issues"
+  },
+  "homepage": "https://github.com/Murqu/borderless#readme",
+  "devDependencies": {
+    "electron": "^33.3.1"
+  }
+}
